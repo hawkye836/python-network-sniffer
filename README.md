@@ -19,5 +19,5 @@ On Kali Linux, it is recommended to install `scapy` via the system package manag
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/python-network-sniffer.git](https://github.com/YOUR_USERNAME/python-network-sniffer.git)
+   git clone [https://hawkye836/python-network-sniffer.git](https://github.com/YOUR_USERNAME/python-network-sniffer.git)
    cd python-network-sniffer
